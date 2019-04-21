@@ -1,3 +1,3 @@
-function getText(argument) {
-	alert("Boo!");
+window.onload = function() {
+  console.log('task 2');
 }

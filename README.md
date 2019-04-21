@@ -1,2 +1,0 @@
-# nau-mpt
-mpt
